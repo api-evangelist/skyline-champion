@@ -50,6 +50,12 @@ apis:
     description: >-
       The Skyline Champion API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/skyline-champion-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/skyline-champion-rate-limits.yml
+  - type: FinOps
+    url: finops/skyline-champion-finops.yml
   - type: DomainSecurity
     url: security/skyline-champion-domain-security.yml
   - type: LinkedIn
